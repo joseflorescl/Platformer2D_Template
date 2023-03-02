@@ -1,0 +1,2799 @@
+fileFormatVersion: 2
+guid: 58ffb6b354a87114dbcad1f07a5d6208
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48453d90a8d5a4892e54cdd4edd6d1
+      internalID: -1249922516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79356565400b2428ba28582a6d3067
+      internalID: -1756694045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4039f4ee683cf4897189c435bd667b
+      internalID: 1622869182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34f6f4f1ea8494784358cc5068b99e
+      internalID: 116024691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f3fea6475f6e46bd3dfc63650a4bd
+      internalID: 176442348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c55c636590f594db4418b05f57c20f
+      internalID: -1544600612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c71363b6801041bff3cea6228a0cb
+      internalID: -72744608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_7
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5bc1babf01e5479442079684f22df
+      internalID: 777829833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_8
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d41d409763da04ca2ec2bddb3ce44e
+      internalID: -613934124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_9
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dfe6d41aa6f124cbca770ef3024c8c
+      internalID: -673484451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2942bdbbfad0446aa6e1ccd975a9a8
+      internalID: -1463232276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6bdbc3cfa66d4ea43d29231ba4cc0
+      internalID: 1272750149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb61e28cb1433419e57be74c824285
+      internalID: 1041622079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833fe2d236f83a74d891cfc7eb7c84e2
+      internalID: -783037068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7770820edfe5f448beaa7051b4571c
+      internalID: -1110035841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01b99ce76d0cbc4bb123e2d85e23273
+      internalID: 719375227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ab9fdf7dc4984f9491a06a60bb9f3
+      internalID: 1970904092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe8a0e035ce0014b8509d2c2ec8d999
+      internalID: -627708875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6523e4744ada42b88d77ea7970d2a
+      internalID: -959911100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_19
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c9cc04b0ee0c40a88aea66e76a8e9
+      internalID: 941371472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffcf6dbdea94c349bdbd687a7f06273
+      internalID: 659043872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db125032052934dbf2810d6bf2c19d
+      internalID: -879195556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed29d0f26a4fe4eaee12deecda59e5
+      internalID: -486654491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a5ba587f17f142bdf9e295bccdb39
+      internalID: -183648947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137bcfd580cfb0498149f10c889ba98
+      internalID: 440785131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939870a11441b340a1841510018bb43
+      internalID: 152250772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5013bb217b98343b43a6dead5c0abd
+      internalID: 2108781566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_27
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe401d18286c3d94981c4d2f8b53031f
+      internalID: 1192926700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_28
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6086e0dbcbebae4ab5c67003d351ca6
+      internalID: -1682333371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_29
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bdcb2706d8213488f0ef34d6a51667
+      internalID: 1332960920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_30
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65f8a8913c84e44b1675c50eba99e9
+      internalID: -860227581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_31
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c62dfb9b101224fa3469f0716551c3
+      internalID: 361967727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_32
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094380d9ee07704db38c38e3e8f6a06
+      internalID: -735908919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_33
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a19758e4dffd4aab7d8813fa1de38
+      internalID: 1739754835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_34
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d2dcbdb262c3346bccb3002f7fa2a7
+      internalID: 856101867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_35
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7537673ddc38c5c47a0d34cafd306561
+      internalID: 1702494954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_36
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0f7bd018305340ac185e39b416967
+      internalID: 1478970505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_37
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcb7a85701725408653ea22e3538a9
+      internalID: 210693793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_38
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4e18a8778e8249b7f823f5c053226
+      internalID: -1793220107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_39
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1270eea62bdb4d93b7efa5cc473e9
+      internalID: 1485021276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871be9aa042c21e4d8fc266f57e58c15
+      internalID: -373758076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2761da290481478505250c635de01
+      internalID: -1230115292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c137f905245a148967069a3fe72418
+      internalID: 1225720248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663def2246cce0b49bf17ece6dd29465
+      internalID: -2097484951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_44
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a045570a58274df4e8c0ff0130c14b6d
+      internalID: -716366126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ce9e85e8f18e4ab525261972775b6
+      internalID: 1461298244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_46
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebaa9948944e14db90e336e4314de4
+      internalID: -2120596282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_47
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c9173b4f2b19448919895a0ebaf6f
+      internalID: -2006187928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_48
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a975c2bb8e084f98afb216f3c5479
+      internalID: -693422338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_49
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99520a1719c0547a7075079d9a28ce
+      internalID: 2055552335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_50
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eca345efba4e046af6d46c80a614c2
+      internalID: 312957596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_51
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79f759950dfcd41be46d9ee6415c5e
+      internalID: 363374477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_52
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86051d411ce66b64d89d3001311d3c44
+      internalID: 1948858251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_53
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d46c38df4149b3458dc28a884de16ea
+      internalID: -1191909942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_54
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1950fa1449bac4c836ba23ad68e47e
+      internalID: -707460224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_55
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b1b00ae966ea4cb0072bd4d9a4ee9
+      internalID: 904440125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_56
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f54a7d9e8de964d910671458d9e82a
+      internalID: -1791857417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_57
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe377f565903e94fa4e9433a3b8f82e
+      internalID: 794791003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_58
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946991865914c204e8447c13e2336acb
+      internalID: -1989501704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_59
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda378f4586a1d74892955b5790ffc5d
+      internalID: -1966098626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1cca8f379cd54baf6767a2abc8eaf
+      internalID: -88687493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7686c7e1bc2df0a42ad9739e9274b0d5
+      internalID: -1582545469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9134fae842a644a87b9b34749ec3f
+      internalID: -2079969250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_63
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d330eac97b33844699be8a74b377cb7
+      internalID: 1319579255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_64
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ff351e1dfc694db9adbb64740fb2c
+      internalID: 1964178703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_65
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709329c6e3a71054fb92432bb92e69c0
+      internalID: 1534413981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_66
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f672a524bfc9e4a88ee11f7c487ae4
+      internalID: 558983505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_67
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069614728bcae245885e5f639b79389
+      internalID: -32113103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_68
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354dd17994deb84c8186df7181ad132
+      internalID: -99340643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_69
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999b0e8c988386442b6a972bdd039a8d
+      internalID: 1310587339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_70
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1cdfb80c8429459ce8c6d483409c3
+      internalID: 918818520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_71
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142107646ce286b4fa443f7ec110f8e7
+      internalID: 561489980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_72
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad893ec94535742a1d9c21f6de2843
+      internalID: 1688558380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_73
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21d761a4b98ba40a6fc2ab514397e1
+      internalID: 2101233559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_74
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5637541d09bdcb48a425a7b40e33f01
+      internalID: 2075278232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_75
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43fdce81a17ce4ca26f1b795c8e6cc
+      internalID: -590197680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_76
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3d66b602885f4f9412bb608115cbb
+      internalID: -875162856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_77
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ac8ddc2ba016f4fb9f78905dd2fa9a
+      internalID: 1687930116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_78
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175c9911c3235b429b19fb598849edf
+      internalID: 2094879117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_79
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e936b4eaaa301c4f8fe6025527e412d
+      internalID: 59019557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb1aa6e839bad4fb0b1df833bdb994
+      internalID: 849652600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e20a5398059dd41a303dda6924ceb2
+      internalID: 997184731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec1fa7b9be5ede47a0a98f73e33d4be
+      internalID: -1220715077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec2d01742ab604793a06624b987bf8
+      internalID: -682770489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_84
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da36e33c6ac284397e444bf656d9d6
+      internalID: 62048520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_85
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35bf7ab7c69ac4aa3a73a16afa74c8
+      internalID: -1881449415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_86
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6ef7b8d67f8f4886320ee02daaada
+      internalID: 1829579926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_87
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7f1ad4dc31a843881b073e97a2c49
+      internalID: 271822277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_88
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a952fad0b5e3f48bc8979cd03ca300
+      internalID: 1936434046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_89
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7afaae99b82a946bcf809f0f927955
+      internalID: -1141181799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_90
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1e9de8c8d11348bf6e074b0279860
+      internalID: -2079206681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_91
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151bd24a0d3e4a4db1f9717d7a116ed
+      internalID: -1798207024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_92
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d95c6d559e40418f998caf8ac2011
+      internalID: -221484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_93
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94dd1190715afa408e613e8d8fdae27
+      internalID: 108676095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_94
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79fba937e520744b9fddb08c829417
+      internalID: 1328959358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_95
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbdca4349c433f4fac2275537a6ab48
+      internalID: 1320229476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_96
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffa24227720ba4daf938f076cc54a4
+      internalID: -1447411689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_97
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413d790f84634c4bb7e04f2982503db
+      internalID: -1253042581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_98
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef973c07abc0edb4da676aa28ae3a441
+      internalID: 979835173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_99
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb39b5486730fc48a37f503f5ac91b0
+      internalID: 1005330244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c444a3f8d3b64186d82ecf5e4d026
+      internalID: 548194873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecdf1b6447d11546bbb93da3f1f2157
+      internalID: -1657254389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f313768cc3cb147b930d72d73c18eb
+      internalID: -1269739132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_103
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4dc1a3c53f4e9478614350ce589836
+      internalID: 526729087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_104
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0051ac1aa76dbc646aadc674a0bf40d0
+      internalID: -761133938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_105
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db92521d959cb418ec3161ce33a81c
+      internalID: 1943806120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_106
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05c86aeaf1d5d4facb1ddd78d5f36f
+      internalID: -1152505011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_107
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece7e92de0a281478a522c2ec2438d5
+      internalID: -1198901096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_108
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f95e393bf5a84ca2ae7c93c1cee89
+      internalID: 1165376185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_109
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad883858d2e62641ab39fefcc95a326
+      internalID: -1983815759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_110
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58fd092c70015440bb32fa2c37550f7
+      internalID: 607579457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_111
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0fc071356c55547b04c8f1cbdb6646
+      internalID: -1396672454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_112
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c178925f6ae3d2245a307883db446e1f
+      internalID: 1042519174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_113
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6129560e1a4bd11438a9e75dc65eb257
+      internalID: 61081500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_114
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b52b7b2d407d994c908efe9f8524b78
+      internalID: -1511354509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_115
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa66084e5be3749867606b024bbfc8
+      internalID: -2082569389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_116
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43855128e618d5f4a9ce928c366d7fa5
+      internalID: 1480212123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_117
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab7d682754e214418ba527d051b46d7
+      internalID: 1301351876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_118
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc42861ad5ba414b8f8af00a17c871b
+      internalID: 1309438010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandbox Dust Atlas Pivot Bottom_119
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f381210fbb27e46b57b8301d9290d1
+      internalID: -1475780034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sandbox Dust Atlas Pivot Bottom_82: -1220715077
+      Sandbox Dust Atlas Pivot Bottom_0: -1249922516
+      Sandbox Dust Atlas Pivot Bottom_26: 2108781566
+      Sandbox Dust Atlas Pivot Bottom_46: -2120596282
+      Sandbox Dust Atlas Pivot Bottom_72: 1688558380
+      Sandbox Dust Atlas Pivot Bottom_48: -693422338
+      Sandbox Dust Atlas Pivot Bottom_118: 1309438010
+      Sandbox Dust Atlas Pivot Bottom_91: -1798207024
+      Sandbox Dust Atlas Pivot Bottom_108: 1165376185
+      Sandbox Dust Atlas Pivot Bottom_52: 1948858251
+      Sandbox Dust Atlas Pivot Bottom_93: 108676095
+      Sandbox Dust Atlas Pivot Bottom_40: -373758076
+      Sandbox Dust Atlas Pivot Bottom_85: -1881449415
+      Sandbox Dust Atlas Pivot Bottom_20: 659043872
+      Sandbox Dust Atlas Pivot Bottom_16: 1970904092
+      Sandbox Dust Atlas Pivot Bottom_3: 116024691
+      Sandbox Dust Atlas Pivot Bottom_42: 1225720248
+      Sandbox Dust Atlas Pivot Bottom_19: 941371472
+      Sandbox Dust Atlas Pivot Bottom_54: -707460224
+      Sandbox Dust Atlas Pivot Bottom_2: 1622869182
+      Sandbox Dust Atlas Pivot Bottom_55: 904440125
+      Sandbox Dust Atlas Pivot Bottom_30: -860227581
+      Sandbox Dust Atlas Pivot Bottom_61: -1582545469
+      Sandbox Dust Atlas Pivot Bottom_47: -2006187928
+      Sandbox Dust Atlas Pivot Bottom_32: -735908919
+      Sandbox Dust Atlas Pivot Bottom_64: 1964178703
+      Sandbox Dust Atlas Pivot Bottom_13: -783037068
+      Sandbox Dust Atlas Pivot Bottom_99: 1005330244
+      Sandbox Dust Atlas Pivot Bottom_76: -875162856
+      Sandbox Dust Atlas Pivot Bottom_69: 1310587339
+      Sandbox Dust Atlas Pivot Bottom_111: -1396672454
+      Sandbox Dust Atlas Pivot Bottom_23: -183648947
+      Sandbox Dust Atlas Pivot Bottom_101: -1657254389
+      Sandbox Dust Atlas Pivot Bottom_9: -673484451
+      Sandbox Dust Atlas Pivot Bottom_115: -2082569389
+      Sandbox Dust Atlas Pivot Bottom_92: -221484601
+      Sandbox Dust Atlas Pivot Bottom_102: -1269739132
+      Sandbox Dust Atlas Pivot Bottom_81: 997184731
+      Sandbox Dust Atlas Pivot Bottom_80: 849652600
+      Sandbox Dust Atlas Pivot Bottom_50: 312957596
+      Sandbox Dust Atlas Pivot Bottom_98: 979835173
+      Sandbox Dust Atlas Pivot Bottom_10: -1463232276
+      Sandbox Dust Atlas Pivot Bottom_68: -99340643
+      Sandbox Dust Atlas Pivot Bottom_109: -1983815759
+      Sandbox Dust Atlas Pivot Bottom_58: -1989501704
+      Sandbox Dust Atlas Pivot Bottom_105: 1943806120
+      Sandbox Dust Atlas Pivot Bottom_96: -1447411689
+      Sandbox Dust Atlas Pivot Bottom_63: 1319579255
+      Sandbox Dust Atlas Pivot Bottom_79: 59019557
+      Sandbox Dust Atlas Pivot Bottom_83: -682770489
+      Sandbox Dust Atlas Pivot Bottom_37: 210693793
+      Sandbox Dust Atlas Pivot Bottom_4: 176442348
+      Sandbox Dust Atlas Pivot Bottom_114: -1511354509
+      Sandbox Dust Atlas Pivot Bottom_88: 1936434046
+      Sandbox Dust Atlas Pivot Bottom_74: 2075278232
+      Sandbox Dust Atlas Pivot Bottom_25: 152250772
+      Sandbox Dust Atlas Pivot Bottom_22: -486654491
+      Sandbox Dust Atlas Pivot Bottom_66: 558983505
+      Sandbox Dust Atlas Pivot Bottom_34: 856101867
+      Sandbox Dust Atlas Pivot Bottom_33: 1739754835
+      Sandbox Dust Atlas Pivot Bottom_90: -2079206681
+      Sandbox Dust Atlas Pivot Bottom_39: 1485021276
+      Sandbox Dust Atlas Pivot Bottom_65: 1534413981
+      Sandbox Dust Atlas Pivot Bottom_75: -590197680
+      Sandbox Dust Atlas Pivot Bottom_7: 777829833
+      Sandbox Dust Atlas Pivot Bottom_38: -1793220107
+      Sandbox Dust Atlas Pivot Bottom_56: -1791857417
+      Sandbox Dust Atlas Pivot Bottom_106: -1152505011
+      Sandbox Dust Atlas Pivot Bottom_12: 1041622079
+      Sandbox Dust Atlas Pivot Bottom_17: -627708875
+      Sandbox Dust Atlas Pivot Bottom_11: 1272750149
+      Sandbox Dust Atlas Pivot Bottom_78: 2094879117
+      Sandbox Dust Atlas Pivot Bottom_84: 62048520
+      Sandbox Dust Atlas Pivot Bottom_29: 1332960920
+      Sandbox Dust Atlas Pivot Bottom_31: 361967727
+      Sandbox Dust Atlas Pivot Bottom_43: -2097484951
+      Sandbox Dust Atlas Pivot Bottom_113: 61081500
+      Sandbox Dust Atlas Pivot Bottom_53: -1191909942
+      Sandbox Dust Atlas Pivot Bottom_94: 1328959358
+      Sandbox Dust Atlas Pivot Bottom_62: -2079969250
+      Sandbox Dust Atlas Pivot Bottom_1: -1756694045
+      Sandbox Dust Atlas Pivot Bottom_21: -879195556
+      Sandbox Dust Atlas Pivot Bottom_67: -32113103
+      Sandbox Dust Atlas Pivot Bottom_44: -716366126
+      Sandbox Dust Atlas Pivot Bottom_18: -959911100
+      Sandbox Dust Atlas Pivot Bottom_27: 1192926700
+      Sandbox Dust Atlas Pivot Bottom_45: 1461298244
+      Sandbox Dust Atlas Pivot Bottom_14: -1110035841
+      Sandbox Dust Atlas Pivot Bottom_73: 2101233559
+      Sandbox Dust Atlas Pivot Bottom_59: -1966098626
+      Sandbox Dust Atlas Pivot Bottom_86: 1829579926
+      Sandbox Dust Atlas Pivot Bottom_41: -1230115292
+      Sandbox Dust Atlas Pivot Bottom_49: 2055552335
+      Sandbox Dust Atlas Pivot Bottom_6: -72744608
+      Sandbox Dust Atlas Pivot Bottom_77: 1687930116
+      Sandbox Dust Atlas Pivot Bottom_112: 1042519174
+      Sandbox Dust Atlas Pivot Bottom_8: -613934124
+      Sandbox Dust Atlas Pivot Bottom_95: 1320229476
+      Sandbox Dust Atlas Pivot Bottom_117: 1301351876
+      Sandbox Dust Atlas Pivot Bottom_116: 1480212123
+      Sandbox Dust Atlas Pivot Bottom_60: -88687493
+      Sandbox Dust Atlas Pivot Bottom_97: -1253042581
+      Sandbox Dust Atlas Pivot Bottom_103: 526729087
+      Sandbox Dust Atlas Pivot Bottom_35: 1702494954
+      Sandbox Dust Atlas Pivot Bottom_24: 440785131
+      Sandbox Dust Atlas Pivot Bottom_28: -1682333371
+      Sandbox Dust Atlas Pivot Bottom_104: -761133938
+      Sandbox Dust Atlas Pivot Bottom_71: 561489980
+      Sandbox Dust Atlas Pivot Bottom_110: 607579457
+      Sandbox Dust Atlas Pivot Bottom_51: 363374477
+      Sandbox Dust Atlas Pivot Bottom_5: -1544600612
+      Sandbox Dust Atlas Pivot Bottom_119: -1475780034
+      Sandbox Dust Atlas Pivot Bottom_70: 918818520
+      Sandbox Dust Atlas Pivot Bottom_57: 794791003
+      Sandbox Dust Atlas Pivot Bottom_100: 548194873
+      Sandbox Dust Atlas Pivot Bottom_89: -1141181799
+      Sandbox Dust Atlas Pivot Bottom_15: 719375227
+      Sandbox Dust Atlas Pivot Bottom_107: -1198901096
+      Sandbox Dust Atlas Pivot Bottom_87: 271822277
+      Sandbox Dust Atlas Pivot Bottom_36: 1478970505
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

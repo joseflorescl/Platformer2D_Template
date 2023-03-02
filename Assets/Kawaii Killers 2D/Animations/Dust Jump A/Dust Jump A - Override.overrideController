@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dust Jump A - Override
+  m_Controller: {fileID: 9100000, guid: 06354a643daabbf46974f8136c1b38d5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e5941866bbecaba4aa4e6eca89281050, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a500c374a5b9818418318befb9ab0ff1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 52840a4861d910a489f71e699e53b266, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9910543348b9c0642a5c71e1f5b3a850, type: 2}

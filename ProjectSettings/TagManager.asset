@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Platform
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2625445805
+    locked: 0
+  - name: Middleground
+    uniqueID: 2454181831
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 92123841
+    locked: 0
+  - name: Platform Moving
+    uniqueID: 345703145
+    locked: 0
+  - name: Pickups
+    uniqueID: 1419781739
+    locked: 0
+  - name: Player
+    uniqueID: 1992537355
+    locked: 0
+  - name: Foreground
+    uniqueID: 681937287
+    locked: 0
+  - name: Texts Overlay
+    uniqueID: 3102113397
+    locked: 0

@@ -1,0 +1,2799 @@
+fileFormatVersion: 2
+guid: 87342f773fb6b3646a52fbe3dec5df3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust Run A 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa5d0f18fd03245a3efeb0e29485f5
+      internalID: -1764827154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b50ebeba3fdc4087368d45b230034
+      internalID: -159845194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7bc564fbb3ac48b7a29238d836da9
+      internalID: 2033418334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9925300ea7c3d4da25dca369e14f31
+      internalID: -2010083858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34a4aa8e0992940b22a74c63b750c7
+      internalID: 374006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326550147070f1644bd1221db973885c
+      internalID: -1900633345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fdadbfc9bb7e43a2e82ff15505ed4
+      internalID: 931380472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433a628eaf93d944b645384223f7ee6
+      internalID: 1906101557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabae107924f114cb002c75e999f91e
+      internalID: -1508486490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94023d367675a8b4d96038fd06f0d7cf
+      internalID: 425731499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b2500ff42f2a4a94069369f8ea581
+      internalID: -1766677165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3226a5c62026e64cb6230eb02d72881
+      internalID: 1767631398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9d6935da620d438f4bda2ff808ba1
+      internalID: 13990041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c7e6f742dd9e45a9ab7ea78b685b5
+      internalID: 1091213597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b033bd4d30ae94ebf601205f33ebaf
+      internalID: -216763234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ac410c0ba54b44aa8c8dd9f707217
+      internalID: 597389461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7be85b558e6864a9df208ebb052745
+      internalID: 410439522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9af8a9cfdb9d34b96d16274c195664
+      internalID: -112453419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run A 18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 727
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e1a922a897fb4b89d67cde92f1473
+      internalID: -672522293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 00
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 727
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a0b7ea53a5c6498bee7032634d512
+      internalID: -2102216547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3254b9f4234740449abdb73f9a44f17
+      internalID: 953722205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcfcf834cb088544851f1f64d509af8
+      internalID: 79012904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd49a3e7b7610314a8f2040cff182f37
+      internalID: -727757083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf15acceedb534c93f824362469e21
+      internalID: 971730458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20310489e3b88540b6cfba2d56b6f90
+      internalID: -936925829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc4b779ae40724eba57c2eda1ba9b9
+      internalID: -671634852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489a67124ede3c4491c1c9738ca34cd
+      internalID: -1434929749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb5b5be4fc2374b9d721e68e6f080f
+      internalID: 1946606020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b92f5429f65b147b8ee397ba5b7e29
+      internalID: 1518723996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356b7c62511d7c4ba8781865e5dce76
+      internalID: 380071014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50cc7fd120e3743ba859d37c33929d
+      internalID: 506041846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0eaf08289fcd41876e54ddb57f223
+      internalID: -292869139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981abe025e954374f90283038ee20751
+      internalID: -1946131733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c8344a95a6ad47a88def1b19f45a0
+      internalID: 1067446608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb1bf01d4e287419cecd22a54421b0
+      internalID: -889238096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c639273b87b24193ab819a58cf283
+      internalID: -1710386681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ba59bc20f4844085528117c84c872
+      internalID: -1133747036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804fb3e41be9e741813021769ee8151
+      internalID: 683752418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e077a885c26ce45ac7ee26bd9be332
+      internalID: 1636898105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run B 19
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 582
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1362d761707b81145814ab91dbfb9fd7
+      internalID: -920759562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a51626448281b44a68b18511e78a7e
+      internalID: 701027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420105e69aae2dc458ff315087e243b3
+      internalID: 1653674452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e094b08556b9ec48a2ec530e156a54c
+      internalID: 599264081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ada703dc0e2a544b8f5612b5899d0d
+      internalID: 1566140567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdeef2caaf6c5a4f9cf4569be91bb30
+      internalID: 150513057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18365138655474094eaeb2ab5010d0
+      internalID: 179461055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182e00df899f8c49860ca9a5e58a154
+      internalID: -683272798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce347a60569a9a489f8bb7514b197e8
+      internalID: 103238050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab298eabde65a34e9ed7a2bfffbb2a1
+      internalID: 1671198492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937444e94ed7d974fbe2cdb426ca5ea4
+      internalID: 1378584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89329db34f020c24f9c587eab5106b2f
+      internalID: 1097011132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c407b0208997f4ba8dfd3254224b00
+      internalID: -1122781990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb631f9346e4c49af4928d6259c68f
+      internalID: 1410253462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802ff7b54a84784d85ce9ba28810831
+      internalID: -88188016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf114abc175f4c40bbcb466f5804db2
+      internalID: -122003304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f8c3eb21cbb04eb13602396dda2ad
+      internalID: 1272547426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb185e2a04f1b224c9c2f08a6b9e3afc
+      internalID: -2052347530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run C 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 437
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ba74750cacdf44b33af272f1cc047
+      internalID: 2038560483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 01
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 437
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f51a089bba3af419fcc4642352a9a0
+      internalID: -2087968901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 02
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 437
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e2b306e09f5345978581a7abffa35
+      internalID: -642411405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff87a0ead84a943903fdc79ad7f374
+      internalID: 1850385588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ad4377f4d21d4bb7a6b4849e4adfd
+      internalID: 656980471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3caaf508b7cea43ae4afb9dfc71d36
+      internalID: -306233620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb4b484542dfa4cbc7ac709731fdb3
+      internalID: -2038747672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58aca5604cd6e3478c9a5c1f80b54d4
+      internalID: 1941398832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6779bc4cd5af348ad2cdd59e72b9a5
+      internalID: -296599472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d39d0d0a2ad04380ffa16d056fcba
+      internalID: 644259325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207d8a73cdc45a45a2c92c673556c03
+      internalID: 2019771551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee435604459d4b4bbe8915d57816241
+      internalID: 1217321973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a48bea998846418164891537bfa92
+      internalID: -1374379580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151acf61508b2844986f871a354286d
+      internalID: -1597926443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c59d5531247c844922d4547ee3582d
+      internalID: 789679324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41d3065aad4ce48b27c6f95d87657d
+      internalID: 1361230472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26488c7b8a33c5742a7ee5c11da3d62a
+      internalID: 1810282553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68242b7891c960549b54399c396a1902
+      internalID: 1627382329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8a7e2cf43ee94cb595ab8e9fd13c8
+      internalID: -384824837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86882cd0777d48b4f97c89c3ee78d1be
+      internalID: 26420178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443920c68ca79ac49877cdbe08f7de94
+      internalID: -288989631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run D 18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 292
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de45353aa6c2944a93c829b098ee456
+      internalID: -29480894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 03
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 292
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd7f5ee3ef9364d8a6892812cc0110
+      internalID: -1307377670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8694c53c4d6344982cf19bdd41797
+      internalID: -238589993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b72d4a42b1177499c56cf49a814248
+      internalID: 535242903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af28380c6eb0e834287cc9df62900f4f
+      internalID: -65345752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42f70ffe21bed4ba7c203273404277
+      internalID: 450282474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9d01f455db7749a1dad42ba0bf7f8
+      internalID: 1503432985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e6558a312ae1499d7325f90c030b4
+      internalID: 574112591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e29d9ec254b48c429285ac3299aceb4
+      internalID: -1427915895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0452e99d618404ba7b0f82efbd3f93
+      internalID: 535656798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c360b31022dc489012eaa70ed82f0
+      internalID: 2061467275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ff446ec90f78146a00b8c091fa2177
+      internalID: -794289636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade31aee2ac8c6e4da19d61fbff8fc69
+      internalID: 1783905986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995757a259dac7d41bd5ce53c59b2065
+      internalID: 30940785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc35be48b45532c4fa807f37cbecf74d
+      internalID: 729336237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d799709c0b09e4281862c10cd4bb7d
+      internalID: 1990984509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c4a2aa4a851e448281cdee77b7fce
+      internalID: -1828422919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd9db91b98bc34a8c0f66d33af2fa1
+      internalID: 417549450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29955aaa16d3444fbffac9921360f74
+      internalID: 1268495524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd625a56f0b77274385ae0523fa22fab
+      internalID: -2099809273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f531cae6be3b5448633e864bf3699f
+      internalID: 1061022553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run E 19
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 147
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfb91e87c8af6040bbb45136be822cd
+      internalID: -345911724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc9bb3faab69b4680e951a25f790f5
+      internalID: -1447466630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ade008a7c4ae439dcd8050ce43824
+      internalID: -1992552921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 02
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047cd34da51b7d49b1c4ff06586d34a
+      internalID: -289676304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72cc8d1a26d6640b3847ab1fa1c1e2
+      internalID: 1372776465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5becf1d517bdcf24aa0d701d41ac88bd
+      internalID: -1305932682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 05
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a741e09c2677224c9cf403ff039a907
+      internalID: -104043845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 06
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e91e7abdf65e14b970431b6d31c280
+      internalID: 1894967248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 07
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde8e405530ac9488b7b1b6b76398cc
+      internalID: -956252494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 08
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68b53dbcf583447bb3edb585e5c8e9
+      internalID: 265108762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 09
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b05525376ded145a652ae00916eebd
+      internalID: 252993752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c1dcac36579447b00330a00196b0d
+      internalID: 577577727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 11
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca94986fe84084d98bb6235351c37f
+      internalID: 1202979830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ec7c4426031445b9cb477b00eeb73
+      internalID: -1187681902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4bb79476240344aef76e65d7a7c0e
+      internalID: -1738974260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6417f4c4769218499659d9cc5ab2d7e
+      internalID: -1415196522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d08921c698a34db37dc2e677db3f2
+      internalID: -889841641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 16
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822976cd5d10214a8d17073410f7c02
+      internalID: 889020858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Run F 17
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2
+        width: 141
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42d3a0e81836e341886593a48b98072
+      internalID: 903549960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 04
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00dafc37a8cdae44baec406ed191069
+      internalID: -941431342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty 05
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250ba707ff1d6642b282b8e0ba09b9c
+      internalID: 313256500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dust Run E 18: 1061022553
+      Dust Run C 07: 103238050
+      Dust Run B 12: -1946131733
+      Dust Run F 06: 1894967248
+      Dust Run A 03: -2010083858
+      Dust Run A 17: -112453419
+      Dust Run D 01: 656980471
+      Dust Run D 04: 1941398832
+      Dust Run F 02: -289676304
+      Dust Run D 14: 1627382329
+      Dust Run F 09: 252993752
+      Dust Run B 00: 953722205
+      Dust Run B 18: 1636898105
+      Dust Run E 03: 450282474
+      Dust Run E 16: 1268495524
+      Dust Run D 05: -296599472
+      Dust Run D 06: 644259325
+      Dust Run F 00: -1447466630
+      Dust Run C 12: 1410253462
+      Dust Run B 17: 683752418
+      Dust Run E 14: -1828422919
+      Dust Run E 08: 2061467275
+      Dust Run E 13: 1990984509
+      Dust Run F 01: -1992552921
+      Dust Run F 17: 903549960
+      Dust Run F 04: -1305932682
+      Dust Run A 08: -1508486490
+      Dust Run A 16: 410439522
+      Dust Run B 14: -889238096
+      Dust Run F 16: 889020858
+      Dust Run C 13: -88188016
+      Dust Run E 15: 417549450
+      Dust Run E 11: 30940785
+      Dust Run D 16: 26420178
+      Dust Run F 07: -956252494
+      Dust Run A 04: 374006521
+      Dust Run D 08: 1217321973
+      Dust Run A 01: -159845194
+      Dust Run D 12: 1361230472
+      Dust Run E 17: -2099809273
+      Dust Run C 14: -122003304
+      Dust Run D 17: -288989631
+      Dust Run B 05: -671634852
+      Dust Run F 12: -1187681902
+      Dust Run E 00: -238589993
+      Dust Run E 12: 729336237
+      Dust Run D 11: 789679324
+      Dust Run C 04: 150513057
+      Dust Run B 13: 1067446608
+      Dust Run B 09: 380071014
+      Dust Run F 10: 577577727
+      Dust Run F 13: -1738974260
+      Dust Run A 15: 597389461
+      Dust Run D 00: 1850385588
+      Dust Run B 01: 79012904
+      Dust Run A 00: -1764827154
+      Dust Run E 19: -345911724
+      Dust Run B 03: 971730458
+      Dust Run D 15: -384824837
+      Dust Run E 01: 535242903
+      Dust Run D 10: -1597926443
+      Dust Run C 11: -1122781990
+      Dust Run B 06: -1434929749
+      Dust Run C 08: 1671198492
+      Dust Run C 10: 1097011132
+      Dust Run B 07: 1946606020
+      Dust Run B 15: -1710386681
+      Dust Run D 13: 1810282553
+      Dust Run A 10: -1766677165
+      Dust Run E 02: -65345752
+      Dust Run E 10: 1783905986
+      Dust Run A 05: -1900633345
+      Dust Run D 07: 2019771551
+      Dust Run E 05: 574112591
+      Dust Run C 15: 1272547426
+      Dust Run A 06: 931380472
+      Dust Run D 03: -2038747672
+      Dust Run B 10: 506041846
+      Dust Run D 09: -1374379580
+      Dust Run A 18: -672522293
+      Dust Run C 01: 1653674452
+      Dust Run E 04: 1503432985
+      Dust Run A 13: 1091213597
+      Empty 01: -2087968901
+      Dust Run C 06: -683272798
+      Dust Run E 06: -1427915895
+      Dust Run C 00: 701027389
+      Dust Run B 19: -920759562
+      Dust Run D 02: -306233620
+      Empty 04: -941431342
+      Dust Run E 09: -794289636
+      Dust Run F 15: -889841641
+      Dust Run F 11: 1202979830
+      Empty 02: -642411405
+      Dust Run A 07: 1906101557
+      Dust Run F 03: 1372776465
+      Dust Run C 03: 1566140567
+      Dust Run C 02: 599264081
+      Dust Run E 07: 535656798
+      Dust Run B 11: -292869139
+      Dust Run F 05: -104043845
+      Dust Run F 08: 265108762
+      Dust Run A 09: 425731499
+      Dust Run A 11: 1767631398
+      Dust Run C 16: -2052347530
+      Dust Run C 05: 179461055
+      Dust Run A 02: 2033418334
+      Dust Run C 09: 1378584680
+      Empty 00: -2102216547
+      Dust Run D 18: -29480894
+      Empty 03: -1307377670
+      Dust Run F 14: -1415196522
+      Empty 05: 313256500
+      Dust Run B 04: -936925829
+      Dust Run A 14: -216763234
+      Dust Run B 08: 1518723996
+      Dust Run C 17: 2038560483
+      Dust Run B 02: -727757083
+      Dust Run B 16: -1133747036
+      Dust Run A 12: 13990041
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

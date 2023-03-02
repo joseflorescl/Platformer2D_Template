@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a3ac19a4cedfb41b12db3a3f305e62, type: 3}
+  m_Name: AudioManager Data
+  m_EditorClassIdentifier: 
+  mainMusic:
+  - {fileID: 8300000, guid: 33015ac354648aa4380282ccdeffceb3, type: 3}
+  noiseMusic:
+  - {fileID: 8300000, guid: adf6a706ae93c2247921b7a40b12819b, type: 3}
+  winLevelMusic:
+  - {fileID: 8300000, guid: 0f18d92740fac0745ac0dd3da4b088c5, type: 3}
+  playerFootsteps:
+  - {fileID: 8300000, guid: da6f13e75b9f21648a54172de16e4159, type: 3}
+  - {fileID: 8300000, guid: b1d3ee50487a6084786f4b5aa11dd3c2, type: 3}
+  playerJump:
+  - {fileID: 8300000, guid: 32756c6969e82924db41283c851ac643, type: 3}
+  - {fileID: 8300000, guid: 7c3da3f559abd7c46976e9719fbd42de, type: 3}
+  - {fileID: 8300000, guid: 13ecce0e1f5087d4291e7ca2aec65cd0, type: 3}
+  playerLand:
+  - {fileID: 8300000, guid: a16e71295ad124d41837895a272e3614, type: 3}
+  - {fileID: 8300000, guid: 5164b9e041b225942b142b97cadeaaac, type: 3}
+  playerFalling:
+  - {fileID: 8300000, guid: 6d701cbf42da1f1488f889492668a165, type: 3}
+  - {fileID: 8300000, guid: d9a2da12f810eec4cabca751a01d381a, type: 3}
+  coinPickup:
+  - {fileID: 8300000, guid: fcf3918a1192eec4983abe8d3c7d3f95, type: 3}
+  - {fileID: 8300000, guid: 063259fbba2b34a49b3859edfd7a57a3, type: 3}
+  - {fileID: 8300000, guid: 5f9bfd68e70f66e4cbe058d28a20f641, type: 3}
+  bravo:
+  - {fileID: 8300000, guid: c91df8a87a6ecb34c9b84ca59cbdfcf2, type: 3}
+  - {fileID: 8300000, guid: 64003013b976aa54db5bfcc1352fe992, type: 3}
+  - {fileID: 8300000, guid: e01edc41fd0ccae46b7928b19035f508, type: 3}
+  - {fileID: 8300000, guid: 3a993bcc3d4508f4a9618bdf66932441, type: 3}

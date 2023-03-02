@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Screen Noise FX - Override
+  m_Controller: {fileID: 9100000, guid: 06354a643daabbf46974f8136c1b38d5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e5941866bbecaba4aa4e6eca89281050, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0c569e2455fc1f4680426ca8d3c2746, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 52840a4861d910a489f71e699e53b266, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d64a0eeea886d9f46b15b5a387d8d295, type: 2}
