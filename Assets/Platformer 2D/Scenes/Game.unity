@@ -5392,7 +5392,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1275166381599327439, guid: cc31886d425688b46a19a007e5c04737, type: 3}
       propertyPath: localWaypoints.Array.data[0].y
-      value: 3
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 8233406282045734646, guid: cc31886d425688b46a19a007e5c04737, type: 3}
       propertyPath: m_RootOrder

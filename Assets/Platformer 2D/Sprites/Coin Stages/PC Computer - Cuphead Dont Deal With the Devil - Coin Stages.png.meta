@@ -144,10 +144,10 @@ TextureImporter:
       name: Coin 00
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1161
-        width: 101
-        height: 141
+        x: 4
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: Coin 01
       rect:
         serializedVersion: 2
-        x: 105
-        y: 1161
-        width: 101
-        height: 141
+        x: 107
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +186,10 @@ TextureImporter:
       name: Coin 02
       rect:
         serializedVersion: 2
-        x: 208
-        y: 1161
-        width: 101
-        height: 141
+        x: 210
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Coin 03
       rect:
         serializedVersion: 2
-        x: 311
-        y: 1161
-        width: 101
-        height: 141
+        x: 313
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Coin 04
       rect:
         serializedVersion: 2
-        x: 414
-        y: 1161
-        width: 101
-        height: 141
+        x: 416
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: Coin 05
       rect:
         serializedVersion: 2
-        x: 517
-        y: 1161
-        width: 101
-        height: 141
+        x: 519
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: Coin 06
       rect:
         serializedVersion: 2
-        x: 620
-        y: 1161
-        width: 101
-        height: 141
+        x: 622
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Coin 07
       rect:
         serializedVersion: 2
-        x: 723
-        y: 1161
-        width: 101
-        height: 141
+        x: 725
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +312,10 @@ TextureImporter:
       name: Coin 08
       rect:
         serializedVersion: 2
-        x: 826
-        y: 1161
-        width: 101
-        height: 141
+        x: 828
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,10 +333,10 @@ TextureImporter:
       name: Coin 09
       rect:
         serializedVersion: 2
-        x: 929
-        y: 1161
-        width: 101
-        height: 141
+        x: 931
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +354,10 @@ TextureImporter:
       name: Coin 10
       rect:
         serializedVersion: 2
-        x: 1032
-        y: 1161
-        width: 101
-        height: 141
+        x: 1034
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,10 +375,10 @@ TextureImporter:
       name: Coin 11
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 1161
-        width: 101
-        height: 141
+        x: 1137
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Coin 12
       rect:
         serializedVersion: 2
-        x: 1238
-        y: 1161
-        width: 101
-        height: 141
+        x: 1240
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,10 +417,10 @@ TextureImporter:
       name: Coin 13
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 1161
-        width: 101
-        height: 141
+        x: 1343
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +438,10 @@ TextureImporter:
       name: Coin 14
       rect:
         serializedVersion: 2
-        x: 1444
-        y: 1161
-        width: 101
-        height: 141
+        x: 1446
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: Coin 15
       rect:
         serializedVersion: 2
-        x: 1547
-        y: 1161
-        width: 101
-        height: 141
+        x: 1549
+        y: 1165
+        width: 96
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
