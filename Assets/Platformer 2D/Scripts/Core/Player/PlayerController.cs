@@ -69,13 +69,11 @@ public class PlayerController : MonoBehaviour
 
     void Hide()
     {
-        print("Hide");
         SetActivePlayer(false);
     }
 
     void Show()
     {
-        print("Show");
         SetActivePlayer(true);
     }
 
