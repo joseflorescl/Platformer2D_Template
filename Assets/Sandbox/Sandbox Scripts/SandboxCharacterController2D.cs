@@ -2,13 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController2D : MonoBehaviour, IMoveableByCatcher
+public class SandboxCharacterController2D : MonoBehaviour, IMoveableByCatcher
 {
+    enum MovingByPlatformType { MoveByCatcher , Emparenting}
     [Header("Environment Check Properties")]
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform groundCheckPosition;
     [SerializeField] private Vector2 groundSize;
     [SerializeField] private int raycastCount = 3; // Cantidad de rayos a lanzar para validar on ground
+    [SerializeField] private MovingByPlatformType movingByPlatformType = MovingByPlatformType.MoveByCatcher;
 
     Rigidbody2D rb2D;
     float jumpVelocityToMaxHeight;
@@ -89,8 +91,32 @@ public class CharacterController2D : MonoBehaviour, IMoveableByCatcher
 
     public void MoveByCatcher(Vector2 move)
     {
+        if (movingByPlatformType != MovingByPlatformType.MoveByCatcher)
+            return;
         //rb2D.MovePosition(rb2D.position + move); // El player se mueve con la plataforma, pero él no avanza correctamente sobre la plataforma
         rb2D.position += move; // Con esto sí funciona el mov del player por la plataforma Y sobre la plataforma
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!collision.collider.CompareTag("MovingPlatform"))
+            return;
+
+        if (movingByPlatformType != MovingByPlatformType.Emparenting)
+            return;
+
+        transform.parent = collision.transform;
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (!collision.collider.CompareTag("MovingPlatform"))
+            return;
+
+        if (movingByPlatformType != MovingByPlatformType.Emparenting)
+            return;
+
+        transform.parent = null;
     }
 
     // Notar que estas validaciones aplican a este controller, porque cuando el player está sobre la plataforma sin moverse

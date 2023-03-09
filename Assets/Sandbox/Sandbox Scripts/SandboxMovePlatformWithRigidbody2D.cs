@@ -25,6 +25,7 @@ public class SandboxMovePlatformWithRigidbody2D : MonoBehaviour
     {
         Vector3 position = Vector3.MoveTowards(rb2D.position, targetPosition, Time.deltaTime * speed);
         rb2D.MovePosition(position);
+        //rb2D.position = position;
 
         if (rb2D.position == (Vector2)pointA.position)
         {

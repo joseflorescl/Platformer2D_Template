@@ -23,18 +23,16 @@ public class PlatformCatcher : MonoBehaviour
         {
             caughtColliders.Add(contactPoints[i].collider);
         }
-
-        // Ahora para cada collider se valida que tenga componente CharacterController2D.
-        //  Esto después se podría cambiar por una Interfaz para hacerlo más genérico
+        
         foreach (Collider2D coll2D in caughtColliders)
         {
-            if (coll2D.TryGetComponent(out CharacterController2D characterController2D))
+            if (coll2D.TryGetComponent(out IMoveableByCatcher moveableByCatcher))
             {
                 // Solo si el character está SOBRE el collider de la plataforma, entonces lo movemos junto con la plataforma,
                 //  porque se puede dar el caso que el character esté en contacto por el lado con la plataforma, pero por eso
                 //  no lo vamos a mover junto con ella
-                if (characterController2D.ColliderOnGround == colliderOnPlatform)
-                    characterController2D.MoveByCatcher(move);
+                if (moveableByCatcher.ColliderOnGround == colliderOnPlatform)
+                    moveableByCatcher.MoveByCatcher(move);
             }
         }
     }
