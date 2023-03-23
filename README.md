@@ -1,5 +1,5 @@
 # Platformer2D_Template
- Platformer 2D Template
+ Platformer 2D Template - Unity
 
 Proyecto Template para un Juego de Plataformas 2D.<br>
 Programado por: José Leonardo Flores<br>
