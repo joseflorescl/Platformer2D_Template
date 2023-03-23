@@ -10,4 +10,4 @@ Arte y sonido: pertenecen al juego Cuphead (Studio MDHR Entertainment Inc)
   - Efecto parallax, usando Cinemachine con cámara en perspectiva.
   - Managers: Game Manager, Audio Manager, VFX Manager
   - Tiempo de desarrollo: 1 mes aprox.
-  
+  - Puedes jugarlo en: https://joseleonardo.itch.io/platformer2dtemplate
