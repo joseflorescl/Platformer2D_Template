@@ -2,7 +2,9 @@
  Platformer 2D Template
 
 Proyecto Template para un Juego de Plataformas 2D.
+
 Programado por: José Leonardo Flores
+
 Arte y sonido: pertenecen al juego Cuphead (Studio MDHR Entertainment Inc)
 
   - El player controller usa un rigidbody dinámico para permitir fuerzas externas.
