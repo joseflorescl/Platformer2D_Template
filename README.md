@@ -2,7 +2,9 @@
  Platformer 2D Template - Unity
 
 Template Project for a 2D Platformer Game in Unity.
+
 Programmed by: José Leonardo Flores
+
 Art and sound: belong to the game Cuphead (Studio MDHR Entertainment Inc)
 
   - The player controller uses a dynamic rigidbody to allow external forces.
