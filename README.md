@@ -1,13 +1,13 @@
 # Platformer2D_Template
  Platformer 2D Template - Unity
 
-Proyecto Template para un Juego de Plataformas 2D.<br>
-Programado por: José Leonardo Flores<br>
-Arte y sonido: pertenecen al juego Cuphead (Studio MDHR Entertainment Inc)
+Template Project for a 2D Platformer Game in Unity.
+Programmed by: José Leonardo Flores
+Art and sound: belong to the game Cuphead (Studio MDHR Entertainment Inc)
 
-  - El player controller usa un rigidbody dinámico para permitir fuerzas externas.
-  - Las plataformas móviles son kinemáticas.
-  - Efecto parallax, usando Cinemachine con cámara en perspectiva.
+  - The player controller uses a dynamic rigidbody to allow external forces.
+  - The moving platforms are kinematic.
+  - Parallax effect, using Cinemachine with a perspective camera.
   - Managers: Game Manager, Audio Manager, VFX Manager
-  - Tiempo de desarrollo: 1 mes aprox.
-  - Puedes jugarlo en: https://joseleonardo.itch.io/platformer2dtemplate
+  - Development time: approximately 1 month.
+  - You can play it on: https://joseleonardo.itch.io/platformer2dtemplate
